@@ -1,7 +1,7 @@
 # Jogo da velha
 ## Integrantes
-### NOME COMPLETO
-### NOME COMPLETO
+### Martinelli dos Santos
+### Danilo Hiroyuki Sanada
 
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
